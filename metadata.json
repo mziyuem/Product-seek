@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Intelligence - AI Product Lab",
+  "description": "A high-end AI product intelligence platform for professional market analysis, product ideation, and multi-dimensional competitive strategy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
